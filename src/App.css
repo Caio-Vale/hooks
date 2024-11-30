@@ -1,0 +1,19 @@
+section {
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+
+img{
+    width: 20vw;
+}
+
+.contagem {
+    display: flex;
+    justify-content: space-around;
+}
+
+.contagem button {
+    width: 5vw;
+    height: 5vh;
+}
